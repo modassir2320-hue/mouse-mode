@@ -6,7 +6,7 @@ the keyboard shortcuts you'd normally need: copy, screenshot, typing by voice, s
 
 > **Status:** working prototype (v0.5.2), built with AutoHotkey v2. Windows 10/11 only.
 
-![Mouse Mode demo](demo.gif)
+![Mouse Mode demo](demo.gif.gif)
 
 
 
