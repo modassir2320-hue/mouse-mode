@@ -1,6 +1,0 @@
-# your personal settings (contain paths to your own apps)
-settings.ini
-
-# the exe goes in GitHub Releases, not in the code
-*.exe
-*.zip
